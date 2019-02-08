@@ -26,7 +26,7 @@ $menu = getMenu();
         <link rel="stylesheet" type="text/css" href="/skin/css/cssbase-min.css" media="all">
         <link rel="stylesheet" type="text/css" href="/skin/css/cssfonts-min.css" media="all">
         <link rel="stylesheet" type="text/css" href="/skin/css/summabase.css" media="all">
-        <link rel="stylesheet" type="text/css" href="/skin/sass/summatest.css" media="all">
+        <link rel="stylesheet" type="text/css" href="/skin/css/summatest.css" media="all">
         <script type="text/javascript" src="/skin/js/jquery-1.11.2.min.js"></script>
         <script type="text/javascript" src="/skin/js/jquery-migrate-1.2.1.min.js"></script>
         <script type="text/javascript" src="/skin/js/summatest.js"></script>
